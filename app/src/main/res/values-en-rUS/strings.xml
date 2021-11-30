@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pitak App</string>
+    <string name="n">Choose your preferred language</string>
+    <string name="cc">Russian</string>
+    <string name="Выбран">Selected by default</string>
+    <string name="Узбекский">Uzbek language</string>
+    <string name="o_zbek_lotin">O\'zbek (Lotin)</string>
+    <string name="Английский">English</string>
+    <string name="english">English</string>
+    <string name="click_Выбрать">Select and continue</string>
+    <string name="click_onboard">Begin</string>
+    <string name="next_onboard">Next</string>
+    <string name="Skip_onboard">Skip</string>
+    <string name="title_Authentication">Login or register</string>
+    <string name="number_Authentication">Your phone number</string>
+    <string name="about_Authentication">We will send an SMS with a confirmation code to your phone number</string>
+    <string name="clck_Authentication">Send login code</string>
+    <string name="click_Verify">Confirm</string>
+    <string name="reset_Verify">Send code again</string>
+    <string name="aboute_Verify">Enter the confirmation code from SMS sent to the number +998 91 123 45 67</string>
+    <string name="code_Verify">confirmation code</string>
+    <string name="title_Verify">Confirm your phone number</string>
+    <string name="title_search">Chats</string>
+    <string name="write_message">Message</string>
+</resources>

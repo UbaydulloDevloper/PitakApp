@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pitakhome"
+    app:startDestination="@id/language">
+
+    <fragment
+        android:id="@+id/language"
+        android:name="com.example.pitakapp.Language"
+        android:label="fragment_language"
+        tools:layout="@layout/fragment_language">
+        <action
+            android:id="@+id/action_language_to_onBoarding_Fragment"
+            app:destination="@id/onBoarding_Fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/onBoarding_Fragment"
+        android:name="com.example.pitakapp.OnBoarding_Fragment"
+        android:label="fragment_on_boarding_"
+        tools:layout="@layout/fragment_on_boarding_">
+        <action
+            android:id="@+id/action_onBoarding_Fragment_to_authentication"
+            app:destination="@id/authentication" />
+    </fragment>
+    <fragment
+        android:id="@+id/main_logo_fragment"
+        android:name="com.example.pitakapp.Main_logo_fragment"
+        android:label="fragment_main_logo_fragment"
+        tools:layout="@layout/fragment_main_logo_fragment">
+        <action
+            android:id="@+id/action_main_logo_fragment_to_language"
+            app:destination="@id/language" />
+    </fragment>
+    <fragment
+        android:id="@+id/authentication"
+        android:name="com.example.pitakapp.Authentication"
+        android:label="fragment_authentication"
+        tools:layout="@layout/fragment_authentication">
+        <action
+            android:id="@+id/action_authentication_to_verify"
+            app:destination="@id/verify" />
+    </fragment>
+    <fragment
+        android:id="@+id/verify"
+        android:name="com.example.pitakapp.Verify"
+        android:label="fragment_verify"
+        tools:layout="@layout/fragment_verify">
+        <action
+            android:id="@+id/action_verify_to_s_O_M_A_view"
+            app:destination="@id/s_O_M_A_view" />
+    </fragment>
+    <fragment
+        android:id="@+id/s_O_M_A_view"
+        android:name="com.example.pitakapp.S_O_M_A_view"
+        android:label="fragment_s__o__m__a_view"
+        tools:layout="@layout/fragment_s__o__m__a_view" />
+</navigation>

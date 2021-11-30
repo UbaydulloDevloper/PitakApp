@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532158195254",
+    "project_id": "pitakdemo-app",
+    "storage_bucket": "pitakdemo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532158195254:android:9b41dfd142d59d562d1a97",
+        "android_client_info": {
+          "package_name": "com.example.pitakapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532158195254-k4d9ohifqooak33neidvqd296r5tvkej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPSD5EqCbh5BIfBIuoohuuc-osjZLowz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532158195254-k4d9ohifqooak33neidvqd296r5tvkej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

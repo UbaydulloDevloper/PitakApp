@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pitak App</string>
+    <string name="n">O\'zingizga qulay tilni tanlang</string>
+    <string name="cc">Russ tili</string>
+    <string name="Выбран">Русский</string>
+    <string name="Узбекский">O’zbek tili</string>
+    <string name="o_zbek_lotin">Xorzir tanlangan</string>
+    <string name="Английский">Ingliz tili</string>
+    <string name="english">English</string>
+    <string name="click_Выбрать">Tanlang va davom eting</string>
+    <string name="click_onboard">Boshlash</string>
+    <string name="next_onboard">Keyingi</string>
+    <string name="Skip_onboard">O\'tkazib yuborish</string>
+    <string name="title_Authentication">Kirish yoki ro\'yxatdan o\'tish</string>
+    <string name="number_Authentication">Sizning telefon raqamingiz</string>
+    <string name="about_Authentication">Biz sizning telefon raqamingizga tasdiqlash kodi bilan SMS yuboramiz</string>
+    <string name="clck_Authentication">Kirish kodini yuboring</string>
+    <string name="click_Verify">Tasdiqlash</string>
+    <string name="reset_Verify">Kodni qayta yuboring</string>
+    <string name="aboute_Verify">+998 91 123 45 67 raqamiga yuborilgan SMS-dan tasdiqlash kodini kiriting.</string>
+    <string name="code_Verify">Tasdiqlash kodi</string>
+    <string name="title_Verify">Telefon raqamingizni tasdiqlang</string>
+    <string name="title_search">Suhbatlari</string>
+    <string name="write_message">Xabar</string>
+</resources>

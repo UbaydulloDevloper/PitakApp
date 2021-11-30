@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Pitak App</string>
+    <string name="n">Выберите удобный\nдля вас язык</string>
+    <string name="cc">Руccкий</string>
+    <string name="Выбран">Выбран по умолчанию</string>
+    <string name="Узбекский">Узбекский язык</string>
+    <string name="o_zbek_lotin">O’zbek(Lotin)</string>
+    <string name="Английский">Английский язык</string>
+    <string name="english">English</string>
+    <string name="click_Выбрать">Выбрать и продолжить</string>
+    <string name="click_onboard">Начать</string>
+    <string name="next_onboard">Далее</string>
+    <string name="Skip_onboard">Пропустить</string>
+    <string name="number_Authentication">Ваш номер телефона</string>
+    <string name="about_Authentication">Мы отправим SMS с кодом подтверждения на ваш номер телефона</string>
+    <string name="clck_Authentication">Отправить код для входа</string>
+    <string name="title_Authentication">Вход или регистрация</string>
+    <string name="title_Verify">Подтвердите ваш телефонный номер</string>
+    <string name="code_Verify">код подтверждения</string>
+    <string name="aboute_Verify">Введите код подтверждения из SMS отправленный на номер +998 91 123 45 67</string>
+    <string name="reset_Verify">Отправить код заново</string>
+    <string name="click_Verify">Подтвердить</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_search">Поиск</string>
+    <string name="write_message">Сообщение</string>
+    <string name="title_account">Account</string>
+</resources>
